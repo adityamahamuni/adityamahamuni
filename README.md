@@ -11,9 +11,7 @@ I'm a **Software Developer** with over 4 years of experience specializing in **P
 
 ## 💼 Work Experience
 
-### Software Developer at Nvidia Corporation (Oct 2020 – Aug 2023)
-
-### Test Developer at Nvidia Corporation (July 2019 – Oct 2020)
+### Test Developer  at Nvidia Corporation (July 2019 – Aug 2023)
 
 ## 🎓 Education
 
