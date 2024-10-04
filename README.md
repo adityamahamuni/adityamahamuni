@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Aditya Mahamuni!
 
-I'm a **Software Developer** with over 4 years of experience specializing in **Python**. I have a strong background in **Software Engineering, Machine Learning, Data Analytics, NLP, and Data Mining**, backed by an MSc in Computer Science from the University of Warwick.
+I'm a seasoned **Software Developer** and an aspiring **Machine Learning Engineer** with 4 years of Python experience, specializing in Software Engineering, Machine Learning, NLP, and Data Analytics. Holds an MSc in Computer Science from the University of Warwick. Drove efficiency and reliability in software projects at Nvidia Corporation.
 
 ## 🔧 Technical Skills
 
 - **Languages:** Python, SQL, C++
-- **Frameworks & Libraries:** Django, NumPy, Pandas, PyTorch, TensorFlow
-- **Tools & Technologies:** Linux, Docker, Jenkins, Gitlab CI, Git, JIRA, Kibana
+- **Frameworks & Libraries:** Django, NumPy, Pandas, PyTorch, TensorFlow, Langchain, Transformers
+- **Tools & Technologies:** AWS, Linux, Docker, Jenkins, Gitlab CI, Git, JIRA, Kibana, Machine Learning, LLM, NLP, Prompt Engineering, ML Optimization, Design Patterns and Object Oriented Programming
 - **Development Practices:** CI/CD, Agile (Scrum), V-model Life cycle
 
 ## 💼 Work Experience
 
-### Test Developer  at Nvidia Corporation (July 2019 – Aug 2023)
+### Software Developer  at Nvidia Corporation (July 2019 – Aug 2023)
 
 ## 🎓 Education
 
